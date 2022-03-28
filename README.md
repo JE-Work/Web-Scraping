@@ -6,8 +6,8 @@ Below is a collection of scripts and projects that I have worked on that are rel
 A generalized description of the purpose for the project or script is included in the code.
 
 ### Projects
-[csv-edits.py](https://github.com/JE-Work/File-Processing/blob/main/csv-edits.py)<br>
-[vehicle-id-xml-csv.py](https://github.com/JE-Work/File-Processing/blob/main/vehicle-id-xml-csv.py)<br>
+[image-api-scrape.py](https://github.com/JE-Work/Web-Scraping/blob/main/image-api-scrape.py)<br>
+[screenshot.py](https://github.com/JE-Work/Web-Scraping/blob/main/screenshot.py)<br>
 
 ---
 
