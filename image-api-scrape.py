@@ -9,7 +9,10 @@ from requests.packages.urllib3.util.retry import Retry
 import time
 
 # PARAMETERS
-HEADERS = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 11_5_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15'}
+HEADERS = {
+    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 11_5_2) \
+        AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15'
+}
 URL = 'https://example.com/api/v1/Image/GetImage/'
 FILTER = [1545]
 
