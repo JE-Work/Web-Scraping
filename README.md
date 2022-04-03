@@ -8,6 +8,7 @@ A generalized description of the purpose for the project or script is included i
 ### Projects
 [image-api-scrape.py](https://github.com/JE-Work/Web-Scraping/blob/main/image-api-scrape.py)<br>
 [screenshot.py](https://github.com/JE-Work/Web-Scraping/blob/main/screenshot.py)<br>
+[symbols-and-names.py](https://github.com/JE-Work/Web-Scraping/blob/main/symbols-and-names.py)<br>
 
 ---
 
