@@ -6,9 +6,9 @@ Below is a collection of scripts and projects that I have worked on that are rel
 A generalized description of the purpose for the project or script is included in the code.
 
 ### Projects
-[image-api-scrape.py](https://github.com/JE-Work/Web-Scraping/blob/main/image-api-scrape.py)<br>
+[image-api-scrape.py](https://github.com/JE-Work/Web-Scraping/blob/main/image_api_scrape.py)<br>
 [screenshot.py](https://github.com/JE-Work/Web-Scraping/blob/main/screenshot.py)<br>
-[symbols-and-names.py](https://github.com/JE-Work/Web-Scraping/blob/main/symbols-and-names.py)<br>
+[symbols-and-names.py](https://github.com/JE-Work/Web-Scraping/blob/main/symbols_and_names.py)<br>
 
 ---
 
